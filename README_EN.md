@@ -62,7 +62,7 @@ After 5-8 minutes you get:
 This is early-stage; forum reports plenty of bugs. If you want to help test or just trade notes, WeChat group QR below (primarily Chinese-speaking — if you prefer English, file issues on GitHub and we'll reply). For the latest features, track the `develop` branch.
 
 <p align="center">
-  <img src="docs/screenshots/b8869535930c6e362545990e98f24890.jpg" width="300" alt="WeChat group QR code" />
+  <img src="docs/screenshots/76fd0d2420e4c1a646514670c918dcf5.jpg" width="300" alt="WeChat group QR code" />
 </p>
 
 ---
